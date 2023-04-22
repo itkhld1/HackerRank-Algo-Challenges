@@ -1,1 +1,1 @@
-#HackerRank-Algo-Challenges-Solutions 
+HackerRank-Algo-Challenges-Solutions 

@@ -1,3 +1,4 @@
+package Solutions;
 public static int simpleArraySum(List<Integer> ar) {
         
         int sum = 0;

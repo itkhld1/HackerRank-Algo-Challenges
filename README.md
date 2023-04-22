@@ -1,3 +1,3 @@
 **HackerRank-Algo-Challenges-Solutions**
 
-www.hackerrank.com
+www.hackerrank.com -> Problem Solving

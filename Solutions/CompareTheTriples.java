@@ -10,6 +10,7 @@ public static List<Integer> compareTriplets(List<Integer> a, List<Integer> b) {
      }
      answer.add(0, pointa);
      answer.add(1, pointb);
+        
+        
      return answer;
-    
 }
